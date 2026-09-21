@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "CYBER_ACE",
+    "score": 98500,
+    "stage": 5,
+    "bossesDefeated": 4,
+    "date": "2026-03-15"
+  },
+  {
+    "id": "2",
+    "name": "NEO_PADDLE",
+    "score": 84200,
+    "stage": 4,
+    "bossesDefeated": 3,
+    "date": "2026-03-16"
+  },
+  {
+    "id": "3",
+    "name": "VOID_BREAKER",
+    "score": 71900,
+    "stage": 4,
+    "bossesDefeated": 3,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "4",
+    "name": "NOVA_PILOT",
+    "score": 58400,
+    "stage": 3,
+    "bossesDefeated": 2,
+    "date": "2026-03-19"
+  },
+  {
+    "id": "5",
+    "name": "PIXEL_GOD",
+    "score": 49800,
+    "stage": 3,
+    "bossesDefeated": 2,
+    "date": "2026-03-20"
+  },
+  {
+    "id": "6",
+    "name": "RETRO_RUNNER",
+    "score": 38200,
+    "stage": 2,
+    "bossesDefeated": 1,
+    "date": "2026-03-20"
+  },
+  {
+    "id": "7",
+    "name": "STAR_STRIKER",
+    "score": 27500,
+    "stage": 2,
+    "bossesDefeated": 1,
+    "date": "2026-03-21"
+  },
+  {
+    "id": "8",
+    "name": "BRICK_BARON",
+    "score": 19400,
+    "stage": 1,
+    "bossesDefeated": 0,
+    "date": "2026-03-21"
+  }
+]

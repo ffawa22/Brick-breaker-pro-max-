@@ -1,0 +1,6 @@
+{
+  "name": "Brick Breaker Galaxy",
+  "description": "An action-packed arcade brick breaker game built with Phaser featuring colorful power-ups, progressive difficulty levels, end-of-stage boss battles, global online leaderboards, sound effects, and smooth mobile touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
